@@ -1,0 +1,24 @@
+ul li {
+    list-style: none;
+}
+
+.movies_list ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie-card {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    max-width: 250px;
+    width: 250px;
+}
+
+.movie-card.card {
+    height: 250px;
+}
+
+
+.card_title{
+    text-align: center;
+}
